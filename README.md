@@ -1,16 +1,24 @@
-## Hi there 👋
+#  Salut, je suis BanistereCSV
 
-<!--
-**banistereCSV/BanistereCSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Data Analyst autodidacte** en formation — passionné par la finance, le trading et la data.  
+Je transforme les données en insights clairs et visuels.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Compétences:
+-  **Python** (Pandas, Matplotlib)
+-  **SQL** (bientôt)
+-  **Data Cleaning & Visualisation**
+-  **Projet actuel :** [Crypto Market Analysis](https://github.com/banistereCSV/Crypto-Analysis)
+
+---
+
+### ⚙️ Outils
+`Python` `Google Colab` `GitHub` `Excel` `VS Code`
+
+---
+
+###  En savoir plus
+ Basé en France  
+ Langues : Français / Anglais  
+ Contact pro : Banistere1@gmail.com 
