@@ -13,12 +13,12 @@ Je transforme les données en insights clairs et visuels.
 
 ---
 
-### Outils
+### Outils:
 `Python` `Google Colab` `GitHub` `Excel` `VS Code`
 
 ---
 
-###  En savoir plus
+###  En savoir plus:
  Basé en France  
  Langues : Français / Anglais  
  Contact pro : Banistere1@gmail.com 
