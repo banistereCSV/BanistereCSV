@@ -1,6 +1,6 @@
 #  Salut, je suis BanistereCSV
 
- **Data Analyst autodidacte** en formation — passionné par la finance, le trading et la data.  
+ **Data Analyst autodidacte** en formation, passionné par la finance, le trading et la data.  
 Je transforme les données en insights clairs et visuels.  
 
 ---
