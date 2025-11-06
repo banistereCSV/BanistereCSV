@@ -13,7 +13,7 @@ Je transforme les données en insights clairs et visuels.
 
 ---
 
-### ⚙️ Outils
+### Outils
 `Python` `Google Colab` `GitHub` `Excel` `VS Code`
 
 ---
